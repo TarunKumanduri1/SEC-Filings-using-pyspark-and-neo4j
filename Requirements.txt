@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+pyarrow
+fastparquet
+python-dotenv
+neo4j
+openai==0.28
+scikit-learn
+requests
+beautifulsoup4
+concurrent.futures
+tqdm
+logging
